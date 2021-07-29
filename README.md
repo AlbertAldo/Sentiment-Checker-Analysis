@@ -17,7 +17,7 @@ Therefore, The Companies must always be aware of conversations that occur on onl
 So my sentiment detector is useful for your Company, in mapping the sentiment of conversations, especially on social media.
 
 ## Goals
-Can provide a solution to the problem above by making a machine that can predict a sentence that has a negative or positive connotation, to prevent negative sentences from entering our product business.
+Can provide a solution to the problem above by making a machine that can predict a sentence that has a negative or positive connotation, to prevent negative sentences that have an impact on our product business.
 
 # Workflow Project
 ![Workflow](https://i.imgur.com/u5yGZbV.jpg)
