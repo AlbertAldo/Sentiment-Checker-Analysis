@@ -112,7 +112,7 @@ The following picture demonstrates how our Sentiment Checker Model application f
 ## - Sentiment Checker
 With this model, it can help companies to filter comments from customers who have negative sentiments, so that things can be minimized that affect other customers by looking at these comments. If the negative comments are true in accordance with the company's conditions and the average customer comments negatively too, it can be a warning for future developments.
 
-From this model, it has been considered from the confusion matrix, and focuses on the **Evaluation Matrix Recall**, so that if there are negative sentiment comments the machine will minimize error in guessing it into positive sentiment (**Reducing False Positive**).
+From this model, it has been considered from the confusion matrix, and focuses on the **Evaluation Matrix Recall**, so that if there are negative sentiment comments the machine will minimize error in guessing it into positive sentiment (**Reducing False Negative**).
 
 <hr>
 
